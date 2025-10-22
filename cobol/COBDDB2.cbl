@@ -4,7 +4,7 @@
          WORKING-STORAGE SECTION.
 
          01  WS-SQLREAD           PIC X(1).
-      *** IKAN DEMO Configuration Gerard 20/10/2025 *** 
+      *** IKAN DEMO Configuration Gerard 22/10/2025 *** 
       *** INCLUDING SQLCA COPYBOOK ******
            EXEC SQL
                 INCLUDE SQLCA
